@@ -3,7 +3,7 @@ body{
   padding-left: 20px;
   text-decoration-style: wavy;
   background-color: grey;
-  font-family: Arial, Courier, Monaco, monospace;
+  font-family:Impact; font-size: 22px;
   background-image: url(IMG_20170524_042122.jpg);
   background-size: cover;
   background-blend-mode:soft-light;
@@ -13,7 +13,11 @@ ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #333;
+  background-color: #000000;
+  display: block;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 
 }
 
@@ -34,4 +38,17 @@ li a {
 
 li a:hover {
     background-color: #111;
+    transform: scale(1.5);
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: #333;
+}
+
+li a:active{
+  background-color: black;
+}
+
+#Abtme {
+  display:block;
+
 }
