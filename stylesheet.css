@@ -3,28 +3,35 @@ body{
   padding-left: 20px;
   text-decoration-style: wavy;
   background-color: grey;
-  font-family: Arial;
+  font-family: Arial, Courier, Monaco, monospace;
   background-image: url(IMG_20170524_042122.jpg);
   background-size: cover;
   background-blend-mode:soft-light;
 }
 
-h1{
-  border: 2px grey solid;
-  background-color: grey;
-  align: center;
-  color:blue;
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+
 }
 
-h2{
-  color:red;
+li {
+  float:left;
+    /*padding-left: : 100px;
+  padding-right: 50px;
+  align-items: center;*/
 }
 
-#main{
-  color:yellow;
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
-#main:hover {
-  text-decoration-style: dashed;
-  color: blue;
+li a:hover {
+    background-color: #111;
 }
