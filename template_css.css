@@ -1,0 +1,30 @@
+body{
+  font-size: 20px;
+  padding-left: 20px;
+  text-decoration-style: wavy;
+  background-color: grey;
+  font-family: Arial;
+  background-image: url(IMG_20170524_042122.jpg);
+  background-size: cover;
+  background-blend-mode:soft-light;
+}
+
+h1{
+  border: 2px grey solid;
+  background-color: grey;
+  align: center;
+  color:blue;
+}
+
+h2{
+  color:red;
+}
+
+#main{
+  color:yellow;
+}
+
+#main:hover {
+  text-decoration-style: dashed;
+  color: blue;
+}
