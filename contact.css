@@ -24,6 +24,7 @@ input[type=text] {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
+
 .parallax {
     /* Set a specific height */
     min-height: 500px;
