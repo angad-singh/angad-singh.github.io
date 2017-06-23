@@ -24,11 +24,11 @@ input[type=text] {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
-
+/*
 .parallax {
-    /* Set a specific height */
+//    /* Set a specific height 
     min-height: 500px;
-    /* Create the parallax scrolling effect */
+    /* Create the parallax scrolling effect
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,7 +37,8 @@ input[type=text] {
 }
 
 #parallax-3 {
-      /* The image used */
+//      /* The image used
   background-image: url("Lofoten Islands.jpg");
   width: screen;
 }
+*/
