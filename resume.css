@@ -94,6 +94,12 @@
   width: screen;
 }
 
+#OMOE {
+	height: 47%;
+	padding-left: 20px;
+	padding-top: 2%;
+	padding-right: 30px;
+}
 
 #parallax-experience {
       /* The image used*/

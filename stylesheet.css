@@ -53,7 +53,7 @@ body {
 }
 
 
-ul{
+.ulmenu {
   list-style-type: none;
   padding-right: 20px;
   padding-left: 10px;
@@ -67,14 +67,14 @@ ul{
 
 }
 
-li {
+.limenu {
   float:left;
     /*padding-left: : 100px;
   padding-right: 50px;
   align-items: center;*/
 }
 
-li a {
+.limenu a {
     display: block;
     color: white;
     text-align: center;
@@ -82,7 +82,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.limenu a:hover {
     background-color: #111;
     transform: scale(1.1);
     /*border: 2px solid red;
@@ -90,7 +90,7 @@ li a:hover {
     background-color: #333;
 }
 
-li a:active {
+.limenu a:active {
   background-color: #222;
 }
 
