@@ -8,11 +8,31 @@
   color: #fff;
 }
 
+#resume1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 70px;
+  text-align: left;
+  vertical-align:bottom;
+  color: #fff;
+}
+
 #Experience {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 90px;
   text-align: left;
   vertical-align:bottom;
+}
+
+.skill {
+  /*display: inline-block;*/
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 90px;
+  /*text-align: left;*/
+  vertical-align:center;
+  align-content: center;
+  color: #fff;
+    margin-left: 10px;
+
 }
 
 #portrait{
