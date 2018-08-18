@@ -25,12 +25,12 @@ body {
 
 #parallax-1 {
       /* The image used */
-  background-image: url("skyline.jpg");
+  background-image: url("../images/skyline.jpg");
   width: screen;
 }
 
 #parallax-2{
-  background-image: url("Point reyes.jpg");
+  background-image: url("../images/Point reyes.jpg");
 }
 
 .About {

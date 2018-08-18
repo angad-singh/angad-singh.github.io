@@ -104,13 +104,13 @@
 
 #parallax-3 {
       /* The image used*/
-  background-image: url("resume.png");
+  background-image: url("../images/resume.png");
   width: screen;
 }
 
 #parallax-skill {
       /* The image used*/
-  background-image: url("skills.jpg");
+  background-image: url("../images/skills.jpg");
   width: screen;
 }
 
@@ -140,7 +140,7 @@
 
 #parallax-experience {
       /* The image used*/
-  background-image: url("experience.jpg");
+  background-image: url("../images/experience.jpg");
   width: screen;
 }
 

@@ -58,6 +58,6 @@ input[type=text] {
 
 #parallax-3 {
       /* The image used*/
-  background-image: url("coastal lane.jpg");
+  background-image: url("../images/coastal lane.jpg");
   width: screen;
 }
